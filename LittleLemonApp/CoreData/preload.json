@@ -1,0 +1,264 @@
+{
+  "dishes": [
+    {
+      "title": "Classic Caesar Salad",
+      "text": "Crisp Romaine lettuce, crunchy croutons, shaved Parmesan, and a creamy Caesar dressing.",
+      "price": 8.99,
+      "image": "1",
+      "category": "Starters"
+    },
+    {
+      "title": "Vegetable Spring Rolls",
+      "text": "Crispy rolls filled with fresh vegetables, served with a tangy dipping sauce.",
+      "price": 5.99,
+      "image": "2",
+      "category": "Starters"
+    },
+    {
+      "title": "Bruschetta with Tomato & Basil",
+      "text": "Toasted baguette topped with fresh tomatoes, basil, garlic, and balsamic glaze.",
+      "price": 6.49,
+      "image": "3",
+      "category": "Starters"
+    },
+    {
+      "title": "Caprese Salad",
+      "text": "Fresh mozzarella, tomatoes, basil, and olive oil, drizzled with balsamic vinegar.",
+      "price": 7.99,
+      "image": "4",
+      "category": "Starters"
+    },
+    {
+      "title": "Stuffed Mushrooms",
+      "text": "Mushrooms stuffed with cream cheese, garlic, herbs, and Parmesan.",
+      "price": 7.49,
+      "image": "5",
+      "category": "Starters"
+    },
+    {
+      "title": "Chicken Skewers with Peanut Sauce",
+      "text": "Grilled chicken skewers served with a rich peanut dipping sauce.",
+      "price": 8.49,
+      "image": "6",
+      "category": "Starters"
+    },
+    {
+      "title": "Garlic Bread",
+      "text": "Freshly baked bread topped with garlic butter and herbs.",
+      "price": 3.99,
+      "image": "7",
+      "category": "Starters"
+    },
+    {
+      "title": "Tuna Tartare",
+      "text": "Fresh diced tuna mixed with avocado, sesame seeds, and a light soy sauce dressing.",
+      "price": 12.99,
+      "image": "8",
+      "category": "Starters"
+    },
+    {
+      "title": "Fried Calamari",
+      "text": "Crispy fried calamari rings served with a tangy marinara sauce.",
+      "price": 9.99,
+      "image": "9",
+      "category": "Starters"
+    },
+    {
+      "title": "Avocado Toast",
+      "text": "Smashed avocado on toasted sourdough bread, topped with chili flakes and lemon.",
+      "price": 6.99,
+      "image": "10",
+      "category": "Starters"
+    },
+    {
+      "title": "Grilled Salmon with Lemon Butter",
+      "text": "Perfectly grilled salmon fillet served with a rich lemon butter sauce and seasonal vegetables.",
+      "price": 22.99,
+      "image": "11",
+      "category": "Mains"
+    },
+    {
+      "title": "Steak Frites",
+      "text": "Juicy grilled steak served with crispy French fries and a side of garlic butter.",
+      "price": 26.99,
+      "image": "12",
+      "category": "Mains"
+    },
+    {
+      "title": "Chicken Alfredo",
+      "text": "Creamy Alfredo sauce with tender chicken breast, served over a bed of fettuccine pasta.",
+      "price": 18.49,
+      "image": "13",
+      "category": "Mains"
+    },
+    {
+      "title": "Grilled Ribeye Steak",
+      "text": "Perfectly charred ribeye steak, seasoned with sea salt and black pepper, served with mashed potatoes.",
+      "price": 29.99,
+      "image": "14",
+      "category": "Mains"
+    },
+    {
+      "title": "Vegetarian Lasagna",
+      "text": "Layered pasta, ricotta cheese, spinach, zucchini, and marinara sauce.",
+      "price": 14.99,
+      "image": "15",
+      "category": "Mains"
+    },
+    {
+      "title": "BBQ Ribs",
+      "text": "Tender, slow-cooked ribs glazed with smoky barbecue sauce, served with coleslaw and fries.",
+      "price": 24.99,
+      "image": "16",
+      "category": "Mains"
+    },
+    {
+      "title": "Margarita Pizza",
+      "text": "Thin crust pizza topped with fresh mozzarella, tomatoes, basil, and a touch of olive oil.",
+      "price": 12.49,
+      "image": "17",
+      "category": "Mains"
+    },
+    {
+      "title": "Beef Wellington",
+      "text": "Tender beef wrapped in a buttery puff pastry, with mushroom duxelles and a side of roasted vegetables.",
+      "price": 39.99,
+      "image": "18",
+      "category": "Mains"
+    },
+    {
+      "title": "Spaghetti Carbonara",
+      "text": "Spaghetti tossed in a creamy egg-based sauce with pancetta, Parmesan, and black pepper.",
+      "price": 16.99,
+      "image": "19",
+      "category": "Mains"
+    },
+    {
+      "title": "Chicken Tikka Masala",
+      "text": "Tender chicken cooked in a creamy tomato-based curry sauce, served with basmati rice.",
+      "price": 17.49,
+      "image": "20",
+      "category": "Mains"
+    },
+    {
+      "title": "Pina Colada",
+      "text": "A refreshing tropical drink made with rum, pineapple juice, and coconut cream.",
+      "price": 7.49,
+      "image": "21",
+      "category": "Drinks"
+    },
+    {
+      "title": "Classic Mojito",
+      "text": "Mint, lime, rum, and soda water, topped with ice for a cool and refreshing drink.",
+      "price": 8.49,
+      "image": "22",
+      "category": "Drinks"
+    },
+    {
+      "title": "Lemonade",
+      "text": "Freshly squeezed lemon juice, water, and a hint of sugar, served over ice.",
+      "price": 4.99,
+      "image": "23",
+      "category": "Drinks"
+    },
+    {
+      "title": "Iced Coffee",
+      "text": "Chilled coffee served over ice, with milk and sugar to taste.",
+      "price": 5.99,
+      "image": "24",
+      "category": "Drinks"
+    },
+    {
+      "title": "Margarita",
+      "text": "A classic cocktail with tequila, lime juice, and orange liqueur, served on the rocks.",
+      "price": 8.99,
+      "image": "25",
+      "category": "Drinks"
+    },
+    {
+      "title": "Strawberry Daiquiri",
+      "text": "Blended strawberries with rum, lime juice, and a touch of sugar.",
+      "price": 9.49,
+      "image": "26",
+      "category": "Drinks"
+    },
+    {
+      "title": "Apple Cider",
+      "text": "Fresh apple juice served chilled or warm, with a cinnamon stick.",
+      "price": 3.99,
+      "image": "27",
+      "category": "Drinks"
+    },
+    {
+      "title": "Hot Chocolate",
+      "text": "Rich and creamy chocolate drink, topped with whipped cream.",
+      "price": 4.49,
+      "image": "28",
+      "category": "Drinks"
+    },
+    {
+      "title": "Chocolate Lava Cake",
+      "text": "Warm, gooey chocolate cake with a molten center, served with vanilla ice cream.",
+      "price": 6.99,
+      "image": "29",
+      "category": "Desserts"
+    },
+    {
+      "title": "Cheesecake",
+      "text": "Creamy cheesecake on a graham cracker crust, topped with fresh strawberries.",
+      "price": 7.99,
+      "image": "30",
+      "category": "Desserts"
+    },
+    {
+      "title": "Tiramisu",
+      "text": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cream.",
+      "price": 5.99,
+      "image": "31",
+      "category": "Desserts"
+    },
+    {
+      "title": "Crème Brûlée",
+      "text": "Rich vanilla custard topped with a crisp layer of caramelized sugar.",
+      "price": 6.49,
+      "image": "32",
+      "category": "Desserts"
+    },
+    {
+      "title": "Lemon Meringue Pie",
+      "text": "Tangy lemon filling topped with a fluffy meringue, baked to golden perfection.",
+      "price": 5.49,
+      "image": "33",
+      "category": "Desserts"
+    },
+    {
+      "title": "Apple Pie",
+      "text": "Warm spiced apple filling in a buttery flaky crust, served with a scoop of vanilla ice cream.",
+      "price": 4.99,
+      "image": "34",
+      "category": "Desserts"
+    },
+    {
+      "title": "Chocolate Mousse",
+      "text": "Rich and smooth chocolate mousse topped with whipped cream.",
+      "price": 5.49,
+      "image": "35",
+      "category": "Desserts"
+    },
+    {
+      "title": "Panna Cotta",
+      "text": "Creamy Italian dessert served with a berry compote.",
+      "price": 6.99,
+      "image": "36",
+      "category": "Desserts"
+    },
+    {
+      "title": "Baked Alaska",
+      "text": "A layer of cake and ice cream encased in a toasted meringue shell.",
+      "price": 7.49,
+      "image": "37",
+      "category": "Desserts"
+    }
+  ]
+}
+

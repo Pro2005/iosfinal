@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="23D60" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="CategoryEntity" representedClassName="CategoryEntity" syncable="YES">
+        <attribute name="name" attributeType="String"/>
+        <relationship name="dishes" toMany="YES" deletionRule="Nullify" destinationEntity="DishEntity" inverseName="category" inverseEntity="DishEntity"/>
+    </entity>
+    <entity name="DishEntity" representedClassName="DishEntity" syncable="YES">
+        <attribute name="image" optional="YES" attributeType="String"/>
+        <attribute name="price" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="text" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <relationship name="category" maxCount="1" deletionRule="Nullify" destinationEntity="CategoryEntity" inverseName="dishes" inverseEntity="CategoryEntity"/>
+    </entity>
+    <entity name="ProfileEntity" representedClassName="ProfileEntity" syncable="YES">
+        <attribute name="criticalUpdates" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="email" attributeType="String"/>
+        <attribute name="firstName" attributeType="String"/>
+        <attribute name="isLoggedIn" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="lastName" attributeType="String"/>
+        <attribute name="newsLetter" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="orderStatuses" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="phoneNumber" attributeType="String"/>
+        <attribute name="specialOffers" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+</model>
